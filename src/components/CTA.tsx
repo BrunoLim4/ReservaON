@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 const CTA = () => {
   const handleContact = () => {
     // Substitua pelo seu link do WhatsApp
-    window.open('https://wa.me/5511999999999?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20ReservaON', '_blank');
+    window.open('https://wa.me/5577988500087?text=Olá!%20Gostaria%20de%20saber%20mais%20sobre%20o%20ReservaON', '_blank');
   };
 
   return (
